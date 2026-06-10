@@ -170,4 +170,6 @@ The red thresholds (`R ≥ 180`, `G ≤ 80`, `B ≤ 80`) are set interactively i
 
 ## License
 
-Add your project's license here (e.g. MIT).
+Released under the [MIT License](LICENSE). You are free to use, modify, and
+distribute it, as long as the copyright notice and this license are kept.
+See the [`LICENSE`](LICENSE) file.
