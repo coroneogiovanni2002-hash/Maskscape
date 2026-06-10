@@ -1,0 +1,14 @@
+# Output generati dallo script
+output/
+
+# Dati di input locali (decommenta se NON vuoi versionare maschere e originale)
+# livelli/
+# original.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
